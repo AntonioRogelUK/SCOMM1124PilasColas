@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Pilas pilas = new Pilas(3);  
         }
     }
 }
